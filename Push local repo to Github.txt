@@ -1,0 +1,8 @@
+Use the followimg Steps!
+
+git status
+git add .
+git commit -m "Intial commit msg"
+git status
+git remote add origin SSH_KEY_OF_NEWLY_CREATED_REPO
+git push origin main
