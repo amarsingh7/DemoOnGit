@@ -1,4 +1,4 @@
-<a href=""><img align="center" src="https://thumbs.gfycat.com/BasicActiveAmazontreeboa-max-1mb.gif" alt="|E-Mail|" width="700px"/></a>       <a href="https://mail.google.com/mail/u/1/#inbox"><img align="center" src="https://thumbs.gfycat.com/BasicActiveAmazontreeboa-max-1mb.gif" alt="|E-Mail|" width="700px"/></a>     <a href="https://mail.google.com/mail/u/1/#inbox"><img align="center" src="https://thumbs.gfycat.com/BasicActiveAmazontreeboa-max-1mb.gif" alt="|E-Mail|" width="700px"/></a>
+<a href=""><img align="center" src="https://thumbs.gfycat.com/BasicActiveAmazontreeboa-max-1mb.gif" alt="|E-Mail|" width="700px"/></a>       <a href=""><img align="center" src="https://thumbs.gfycat.com/BasicActiveAmazontreeboa-max-1mb.gif" alt="|E-Mail|" width="700px"/></a>      
 # DemoOnGit🤷‍♂️
 This is a basic repository to try out all the things involved in Git :)
 
